@@ -24,7 +24,7 @@ function open() {
         <h1 v-t="'blockOne.title'"></h1>
         <typing-animation-vue
           :i18n-text-keys="subtitles"
-          class="h-100 mb-3"
+          class="mb-3"
         ></typing-animation-vue>
         <form class="mb-1" action="" method="post">
           <input type="radio" name="ETH" id="ETH" class="w-auto" checked />
